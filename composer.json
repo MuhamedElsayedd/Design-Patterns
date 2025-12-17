@@ -1,0 +1,16 @@
+{
+    "name": "mohamed/design-patterns",
+    "description": "Code Examples and Trainig on Design Patterns",
+    "autoload": {
+        "psr-4": {
+            "Mohamed\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamed Elsayed",
+            "email": "muhameddelsayed@gmail.com"
+        }
+    ],
+    "require": {}
+}
