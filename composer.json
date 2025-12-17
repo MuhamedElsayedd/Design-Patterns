@@ -3,7 +3,8 @@
     "description": "Code Examples and Trainig on Design Patterns",
     "autoload": {
         "psr-4": {
-            "Mohamed\\DesignPatterns\\": "src/"
+            "Mohamed\\DesignPatterns\\": "src/",
+            "Creational\\":"Creational"
         }
     },
     "authors": [
@@ -12,5 +13,9 @@
             "email": "muhameddelsayed@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+
+    
 }
