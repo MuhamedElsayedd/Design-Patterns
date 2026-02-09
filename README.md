@@ -2,7 +2,7 @@
 
 This repository contains implementations of various **Design Patterns** in PHP, focusing on clean and maintainable object-oriented code. It is intended as a learning resource and reference for understanding the practical usage of design patterns in real-world applications.
 
-## Repository Structure
+## Repository Structur
 
 ```
 Design-Patterns/
